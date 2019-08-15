@@ -13,7 +13,7 @@
 - Stone tiles
 - Wood tiles
 - Tree tiles and empty branches
-- Dirt,Stone,Wood walls
+- Dirt,Stone,Wood walls (<i>Disclaimer: Some wall images may be wrongly cropped from original download</i>)
 - Wood platform tiles
 - Sky gradient tiles
 - Flora tiles
